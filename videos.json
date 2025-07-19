@@ -1,5 +1,10 @@
-[
-    { "id": "zd4sacbG2HE" },
-    { "id": "rcptwvpqw9s" },
-    { "id": "dQw4w9WgXcQ" }
-]
+{
+  "videos": [
+    { "id": "dQw4w9WgXcQ" },
+    { "id": "3JZ_D3ELwOQ" }
+  ],
+  "StandBy": [
+    { "time": "14", "Caption": "Standby Mode at 2PM" },
+    { "time": "23", "Caption": "Good Night!" }
+  ]
+}
