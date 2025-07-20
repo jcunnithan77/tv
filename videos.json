@@ -1,50 +1,6 @@
 {
-  "videos": [
-    {
-      "Group": "Nature Documentary",
-      "Tumpnail": "https://img.youtube.com/vi/BGTx91t8q50/hqdefault.jpg",
-      "videos": [
-        {
-          "id": "BGTx91t8q50",
-          "Tumpnail": "https://img.youtube.com/vi/BGTx91t8q50/hqdefault.jpg"
-        },
-        {
-          "id": "w6NHOemkeBs",
-          "Tumpnail": "https://img.youtube.com/vi/w6NHOemkeBs/hqdefault.jpg"
-        },
-        {
-          "id": "U5r3m8QOSHU",
-          "Tumpnail": "https://img.youtube.com/vi/U5r3m8QOSHU/hqdefault.jpg"
-        }
-      ]
-    },
-    {
-      "Group": "Space & Universe",
-      "Tumpnail": "https://img.youtube.com/vi/1P5WYmQj6A4/hqdefault.jpg",
-      "videos": [
-        {
-          "id": "1P5WYmQj6A4",
-          "Tumpnail": "https://img.youtube.com/vi/1P5WYmQj6A4/hqdefault.jpg"
-        },
-        {
-          "id": "XHTrLYShBRQ",
-          "Tumpnail": "https://img.youtube.com/vi/XHTrLYShBRQ/hqdefault.jpg"
-        },
-        {
-          "id": "sF1PzLwTfcQ",
-          "Tumpnail": "https://img.youtube.com/vi/sF1PzLwTfcQ/hqdefault.jpg"
-        }
-      ]
-    }
-  ],
-  "StandBy": [
-    {
-      "time": "10",
-      "Caption": "LUNCH"
-    },
-    {
-      "time": "19",
-      "Caption": "SLEEP"
-    }
-  ]
+"Standby":"https://raw.githubusercontent.com/jcunnithan77/tv/main/StandBy",
+"video":[
+{"Thumpnail":"https://img.youtube.com/vi/BGTx91t8q50/hqdefault.jpg","Url":"https://raw.githubusercontent.com/jcunnithan77/tv/main/videos1"},{"Thumpnail":"https://img.youtube.com/vi/1P5WYmQj6A4/hqdefault.jpg","Url":"https://raw.githubusercontent.com/jcunnithan77/tv/main/videos2"},
+]
 }
