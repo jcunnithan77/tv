@@ -1,10 +1,12 @@
 [
-    {
-      "time": "10",
-      "Caption": "LUNCH"
-    },
-    {
-      "time": "15",
-      "Caption": "SLEEP"
-    }
-  ]
+  {
+    "stime": "10:10",
+    "etime": "10:20",
+    "Caption": "LUNCH"
+  },
+  {
+    "stime": "16:00",
+    "etime": "16:50",
+    "Caption": "SLEEP"
+  }
+]
