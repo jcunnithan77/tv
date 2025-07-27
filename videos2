@@ -1,18 +1,17 @@
 [
-        {
-          "id": "7Kd72HBMlT4",
-          "Tumpnail": "https://img.youtube.com/vi/1P5WYmQj6A4/hqdefault.jpg"
-        },
-        {
-          "id": "gz8L1i0ODeA",
-          "Tumpnail": "https://img.youtube.com/vi/3IYDfH0r1RspVQdd/hqdefault.jpg"
-        },
-        {
-          "id": "bAUVCn_jw5I",
-          "Tumpnail": "https://img.youtube.com/vi/sF1PzLwTfcQ/hqdefault.jpg"
-        },
-        {
-          "id": "bAUVCn_jw5I",
-          "Tumpnail": "https://img.youtube.com/vi/sF1PzLwTfcQ/hqdefault.jpg"
-        }
-      ]
+  {
+    "id": "DEHBrmZxAf8"  // Zoom Zoom Zoom We’re Going to the Moon (song)
+  },
+  {
+    "id": "cMDCZWTSZvc"  // How Do Rockets Work? | KiwiCo (learning)
+  },
+  {
+    "id": "aTd2f59TSVo"  // Make a Straw Rocket | NASA’s Learning Space (craft)
+  },
+  {
+    "id": "ppNbqL3LuUo"  // Let’s Build Paper Rockets | SciShow Kids (craft)
+  },
+  {
+    "id": "hqPiB1pxgcs"  // Baby Loves Aerospace Engineering! (story read-aloud)
+  }
+]
