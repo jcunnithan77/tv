@@ -1,17 +1,22 @@
 [
   {
-    "id": "DEHBrmZxAf8"  // Zoom Zoom Zoom We’re Going to the Moon (song)
+"title":" Zoom Zoom Zoom We’re Going to the Moon (song)",
+    "id": "DEHBrmZxAf8"  
   },
   {
-    "id": "cMDCZWTSZvc"  // How Do Rockets Work? | KiwiCo (learning)
+"title":"How Do Rockets Work? | KiwiCo (learning)",
+    "id": "cMDCZWTSZvc"  
   },
   {
-    "id": "aTd2f59TSVo"  // Make a Straw Rocket | NASA’s Learning Space (craft)
+"title":"Make a Straw Rocket | NASA’s Learning Space (craft)",
+    "id": "aTd2f59TSVo" 
   },
   {
-    "id": "ppNbqL3LuUo"  // Let’s Build Paper Rockets | SciShow Kids (craft)
+"title":"Let’s Build Paper Rockets | SciShow Kids (craft)",
+    "id": "ppNbqL3LuUo"  
   },
   {
-    "id": "hqPiB1pxgcs"  // Baby Loves Aerospace Engineering! (story read-aloud)
+"title":"Baby Loves Aerospace Engineering! (story read-aloud)",
+    "id": "hqPiB1pxgcs" 
   }
 ]
